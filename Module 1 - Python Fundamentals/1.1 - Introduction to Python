@@ -1,0 +1,18 @@
+Python is a high-level, interpreted programming language.
+Created by Guido van Rossum and first released in 1991.
+automation, web development, data science, and cybersecurity.
+
+Why Python for Offensive Security?
+Readable syntax for quick scripting
+Powerful standard libraries and third-party tools (e.g., scapy, requests, pwntools)
+Cross-platform: works on Linux, Windows, and macOS
+Ideal for automating tasks, building custom exploits, and developing post-exploitation tools
+
+
+task of the day 
+Setting Up an IDE Recommended environments for coding:
+
+VS Code (with Python extension)
+PyCharm (Community Edition is free)
+Jupyter Notebooks (for interactive scripts and demos)
+Thonny (great for beginners)
